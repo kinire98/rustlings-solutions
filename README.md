@@ -1,4 +1,4 @@
-#Rustlings solutions
+# Rustlings solutions
 These are my solutions to the rustlings exercises.  
 These are probably *not* the best solutions for the exercises but they work, 
 for some of them I really needed help, but, hey, it's finished: 
